@@ -23,7 +23,7 @@ from PyQt5 import QtCore
 import numpy as np
 from skimage import io
 import h5py
-import matplotlib.pylab as plt 
+#import matplotlib.pylab as plt 
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 from copy import deepcopy
